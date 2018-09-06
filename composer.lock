@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3eed8c3bcfdab79620efd93e26e778bf",
+    "packages": [
+        {
+            "name": "iccgame/icc-activity",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lxz2133/icc-activity.git",
+                "reference": "0a0735a64e225516bf2bdf458a4bdb7a8575d3d8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lxz2133/icc-activity/zipball/0a0735a64e225516bf2bdf458a4bdb7a8575d3d8",
+                "reference": "0a0735a64e225516bf2bdf458a4bdb7a8575d3d8",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "ICCGame\\ICCActivity\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "lxz2133",
+                    "email": "lxz2133@gmail.com"
+                }
+            ],
+            "description": "iccgame activity",
+            "support": {
+                "source": "https://github.com/lxz2133/icc-activity/tree/master",
+                "issues": "https://github.com/lxz2133/icc-activity/issues"
+            },
+            "time": "2018-09-06T09:18:33+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

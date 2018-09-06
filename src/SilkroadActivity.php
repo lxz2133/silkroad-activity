@@ -6,6 +6,10 @@
  * Time: 14:26
  */
 
+namespace ICCGame\SilkroadActivity;
+
+use ICCGame\ICCActivity\AbstractICCActivity;
+
 class SilkroadActivity extends AbstractICCActivity
 {
 

@@ -10,7 +10,19 @@
         }
     ],
     "minimum-stability": "dev",
+    "config": {
+        "secure-http": false
+    },
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/lxz2133/icc-activity.git" }
+    ],
     "require": {
-        "iccgame/activity": "dev"
+        "iccgame/icc-activity": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ICCGame\\ICCActivity\\": "src/",
+            "ICCGame\\SilkroadActivity\\": "src/"
+        }
     }
 }
