@@ -1,0 +1,16 @@
+{
+    "name": "iccgame/silkroadactivi",
+    "description": "silkroad activity",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lxz2133",
+            "email": "lxz2133@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "iccgame/activity": "dev"
+    }
+}
