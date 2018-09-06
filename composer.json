@@ -1,5 +1,5 @@
 {
-    "name": "iccgame/silkroadactivi",
+    "name": "iccgame/silkroad-activity",
     "description": "silkroad activity",
     "type": "library",
     "license": "MIT",
@@ -9,7 +9,7 @@
             "email": "lxz2133@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "config": {
         "secure-http": false
     },
