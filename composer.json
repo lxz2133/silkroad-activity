@@ -9,7 +9,7 @@
             "email": "lxz2133@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "config": {
         "secure-http": false
     },
